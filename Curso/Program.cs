@@ -9,6 +9,8 @@ namespace Curso
         
         static void Main(string[] args)
         {
+            Console.WriteLine("testando git");
+            
             Console.WriteLine("Valor raio:");
             double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
