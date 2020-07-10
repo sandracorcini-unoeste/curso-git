@@ -1,0 +1,13 @@
+C:\Sandra\Visual Studio\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.exe
+C:\Sandra\Visual Studio\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.deps.json
+C:\Sandra\Visual Studio\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.runtimeconfig.json
+C:\Sandra\Visual Studio\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.runtimeconfig.dev.json
+C:\Sandra\Visual Studio\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.dll
+C:\Sandra\Visual Studio\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.pdb
+C:\Sandra\Visual Studio\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.csprojAssemblyReference.cache
+C:\Sandra\Visual Studio\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.AssemblyInfoInputs.cache
+C:\Sandra\Visual Studio\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.AssemblyInfo.cs
+C:\Sandra\Visual Studio\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.csproj.CoreCompileInputs.cache
+C:\Sandra\Visual Studio\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.dll
+C:\Sandra\Visual Studio\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.pdb
+C:\Sandra\Visual Studio\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.genruntimeconfig.cache

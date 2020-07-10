@@ -1,0 +1,3 @@
+﻿1>------ Compilação iniciada: Projeto: Curso, Configuração: Debug Any CPU ------
+1>Curso -> C:\Sandra\Visual Studio\Curso\Curso\bin\Debug\netcoreapp3.1\Curso.dll
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
